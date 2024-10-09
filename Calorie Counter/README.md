@@ -70,7 +70,7 @@ This project is a simple calorie tracking application where users can input thei
 After clicking "Calculate Remaining Calories," the output will look like this:
 
 ```html
-<span class="deficit">300 Calorie Deficit</span>
+<span class="surplusordeficit">300 Calorie Deficit</span>
 <hr>
 <p>2000 Calories Budgeted</p>
 <p>1700 Calories Consumed</p>
